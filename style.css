@@ -1,0 +1,8 @@
+#toc__inside .preview_image {
+    float:right;
+    margin: 0 .4em;
+}
+
+#toc__inside .preview_image img {
+    max-width:400px;
+}
